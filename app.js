@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-08T06:25:01.010Z
-Commit: Correct typo in configuration file
+Timestamp: 2025-11-08T06:25:02.973Z
+Commit: Resolve null pointer exception in user service
