@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-08T06:15:38.037Z
-Commit: Fix database connection timeout
+Timestamp: 2025-11-08T06:15:40.149Z
+Commit: Resolve null pointer exception in user service
